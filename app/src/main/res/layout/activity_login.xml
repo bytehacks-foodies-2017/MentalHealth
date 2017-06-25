@@ -69,6 +69,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
+                android:background="@android:color/holo_orange_dark"
+                android:onClick="none"
                 android:text="@string/action_sign_in"
                 android:textStyle="bold" />
 

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="24d2215456dea31aa27066c738757427555bbda6">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a5d5c16e13d3484f513d45cc07ecf5364bbe1129\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\c5da3884a31db8a0957dae0ed9ef9a35b604999b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_784e6347c3fdc357cfee53528a7fa0591ec0b1ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\2784019fb321471a1a9bb3ca1065d4ba84aa93d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_4268d9ba66203b28ac0e82fd664e24f4d68d904e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\85e153437b1dcfa2109e07ef9eaaf83509b8d5a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_b2597175f188711007430cb4cd0fb6493e8f7f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\5e0f6fd5d060ef48325a017c0902f26946e64c81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_3580d7755028da2ba7713ff4b00d7bb4de5b83c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\47ece4c4987b85723c4d44f9544ac347180c5222\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_f132b596ed704e226dce6c967b07fdb07e90a088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\a27b85b3fb74cff1e9a72c941760b07048ec9df4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_74a59240a37d299b046159b48e8171c5da3a1679.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_67a3dbfa6554bde87ca05fae3434db71dba30bdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\160c69214dcdcfd11407965bf5744eaf0e0d56e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_e934a824fe93fce8050ee17104a1ae99a7b7ec61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\b65433e61fa189f454d27e8aee9774c67f2a62ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_c81d7fe9a34fdf53dc827af85f74e21b5d5da1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\94e351ea8ef107cde5cccb9e5e858dd8ae097995\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_078a9e3ed33d25b288e776e536aa36722e992393.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\e426d0045b94f2321a1065d7ad56ff3ebfe77b52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_f242222cb0fb6cf36c92e668db713a4f2356bf94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\184e287196187ce0b372438e56d065f61b72c0dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_8a07e70f30e8c5ce1e75b59a82170b7468fe7e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\78af00a22d44baa24f74b90466272031fb2cb172\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_f50c51ab56690c56d8736ae3baa642b5d0dcfc38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\fa4632fe51d624697d1d31d6b0fdd8b1c383edb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_62dc739af22deefada884abe66047797744e4f44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_fdee35700360873024af265d7df39d7ac1d94050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\49c257b0953f0d2f38cfa8c4b7eb7027dfe146ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_89244a3eb5a7a58e13a5d2cd63843bc36f2a098c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\bd0094759c2acecc12b552e0b4447df07fd860e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_39c002ea29c7924bb964cc8a29641e5adfc86552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7fe9afa4329a24bdf7ddbc8f56487f0bf00a5ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\08d002ef856422f891c6f9ffd71dd42a4d1a4b08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_56cc46d21c09554a320803c80617f726ad65d6f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\670f65a16766195fbcf4a63b3738f8f1c99ce6d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_6884b88051f716abd4de812de5f7458b9e5c6247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\788f80a98665da78c1adeadb4388fd521344c589\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_e733a88ac0cdd7dfa7ce38338b3c1f14a572187c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\f2d31fa4f7ea56ec4953fc0b2b8cad610f3f701d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_43f19e9be76486c66177b22ccdcece1407c6f9fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\5c0ddd165f69ec0a765d7c2f91180d7f9621b49f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_6a73bf1df0294fe19ae98ca268d86de525548f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nishap\.android\build-cache\0bb520f279a13b9d8e4fc870f8ac4855568a3e6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\nishap\Desktop\ByteHacks\newAttempt\MentalHealth\app\build\intermediates\pre-dexed\debug\classes_902370c510d0f6ca9af5d5455591383122953680.jar" />
+    </item>
+
+</items>
